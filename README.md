@@ -63,6 +63,8 @@
 </div>
 </details>
 
+ <summary>Ассинхронность</summary>
+
 <details>
 <summary>Как работает ключевое слово this?</summary>
 <div>
