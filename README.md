@@ -284,7 +284,7 @@
 </details>
 <details>
   <summary>Ассинхронность</summary>
-  <div>https://habr.com/ru/company/wrike/blog/302896/</div>
+  <div>https://habr.com/ru/company/ruvds/blog/340508/</div>
   </details>
 <br/>
 
