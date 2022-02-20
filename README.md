@@ -282,8 +282,10 @@
   <p><i>Источник: <a href ="https://learn.javascript.ru/set-map">javascript.ru</a></i></p>
 </div>
 </details>
-
-Ассинхронность
+<details>
+  <summary>Ассинхронность</summary>
+  <div>https://habr.com/ru/company/wrike/blog/302896/</div>
+  </details>
 <br/>
 
 **React**:
