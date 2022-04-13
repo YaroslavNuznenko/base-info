@@ -285,6 +285,8 @@
 <details>
   <summary>Ассинхронность</summary>
   <img src='https://habrastorage.org/r/w1560/getpro/habr/post_images/90f/171/c7c/90f171c7cbf3d192fccdfec1efabe31c.png' />
+  <br />
+  <img src='https://habrastorage.org/r/w1560/getpro/habr/post_images/5c5/b41/e37/5c5b41e37c793ce1fad4f342257bbede.gif' />
   <div>
   Цикл событий решает одну основную задачу: наблюдает за стеком вызовов и очередью коллбэков (callback queue). Если стек вызовов пуст, цикл берёт первое событие из очереди и помещает его в стек, что приводит к запуску этого события на выполнение.
   </div>
